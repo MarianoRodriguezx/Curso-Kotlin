@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practica 3 - DiceRollxImagen</string>
+    <string name="roll_label">Lanzar Dado</string>
+</resources>
